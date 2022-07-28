@@ -18,3 +18,10 @@ body {
 .filled {
     color: goldenrod;
 }
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-image: none;
+    color: red;
+    font-size: 20px;
+}
