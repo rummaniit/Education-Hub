@@ -18,3 +18,27 @@ body {
 .filled {
     color: goldenrod;
 }
+
+.arrow-left {
+    font-size: 25px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    top: -65px;
+    left: -70px;
+    cursor: pointer;
+}
+
+.arrow-right {
+    font-size: 25px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    top: -80px;
+    left: 530px;
+    cursor: pointer;
+}
+
+footer i {
+    color: white;
+}
