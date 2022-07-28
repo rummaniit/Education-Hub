@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gentium+Book+Plus&family=Inter:wght@700&family=Lobster&family=M+PLUS+2&family=Montserrat&family=Nunito&family=Oswald:wght@500;700&family=Poppins:wght@400;500&family=Praise&family=Satisfy&family=Shippori+Antique&family=Source+Sans+Pro:wght@700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-inner>.carousel-item>img {
+    height: 720px;
+    object-fit: cover;
+}
+
+.price {
+    color: #289BDE;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.filled {
+    color: goldenrod;
+}
